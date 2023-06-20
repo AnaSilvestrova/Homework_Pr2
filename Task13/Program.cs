@@ -6,9 +6,12 @@
 */
 
 Console.WriteLine("Input number --> ");
-int num = Convert.ToInt32(Console.ReadLine());
+int number = Convert.ToInt32(Console.ReadLine());
+int length = 100000;
+int index = 0;
 
-    Console.WriteLine($"The third digit of {num} is {result}.");
+if(index < length)
+{
+    
+}
 
-
-    Console.WriteLine($"Error, there is no third digit.");
